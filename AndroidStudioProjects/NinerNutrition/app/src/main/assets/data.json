@@ -1,0 +1,52 @@
+{
+"Exercises" : [
+ {
+   "title": "Chest",
+   "wod": "Bench Press\nDumbbell Bench press\nMachine Chest Flies\nDumbbell Chest Flies\nIncline Bench Press\nDecline Bench Press\nCable Crossovers"
+ },
+ {
+   "title": "Biceps",
+   "wod": "Preacher Curls\nDumbbell Hammer Curls\nStanding Barbell Curls\nPull-Ups\nCable Curls"
+ },
+ {
+   "title": "Triceps",
+   "wod": "Tricep Cable Pushdowns\nDumbbell Tricep Extensions\nDips\nTricep Bench\nSingle-Armed Cable Tricep Extension"
+ },
+ {
+   "title": "Quadriceps",
+   "wod": "Barbell Squats\nGoblet Squats\nMachine Quad Extensions\nLunges\nLeg Press"
+ },
+ {
+   "title": "Hamstrings",
+   "wod": "Deadlifts\nSumo Deadlifts\nRomanian/Stiff-Legged Deadlifts\nMachine Hamstring Extensions\n"
+ },
+ {
+   "title": "Calves",
+   "wod": "Machine Standing Calf Raises\nSeated Calf Raises\nDumbbell Calf Raises\nMachine Calf Extensions"
+ },
+ {
+   "title": "Glutes",
+   "wod": "Barbell Squats\nSumo Squats\nLunges\nHip Thrusts"
+ },
+ {
+   "title": "Back",
+   "wod": "Deadlifts\nPull-Ups\nMachine Lat Pulldowns\nLow Row Machine\nBack Extensions\n"
+ },
+ {
+   "title": "Shoulders",
+   "wod": "Dumbbell Shoulder Press\nMilitary Press\nShoulder Flies\nUpright Barbell Row\nShrugs\nFarmer's Walk"
+ },
+ {
+   "title": "Abs",
+   "wod": "Sit-Ups\nCrunches\nRussian Twists\nPlanks\nHeel Touches\n"
+ },
+ {
+   "title": "Cardio",
+   "wod": "Treadmill\nStairmaster\nElliptical\nStationary Bike\nRow Machine"
+ },
+ {
+   "title": "Compound(Multiple muscle groups) Exercises",
+   "wod": "Deadlifts\nSquats\nFarmer's Walk\nPull-Ups\nPush-Ups\nDips\n"
+ }
+]
+}
